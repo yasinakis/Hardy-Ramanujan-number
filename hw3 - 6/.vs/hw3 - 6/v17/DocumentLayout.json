@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6mer Yasin Akis\\source\\repos\\hw3 - 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{197EFB29-ECEF-4D63-B7AC-6DD870268872}|hw3 - 6\\hw3 - 6.vcxproj|C:\\Users\\\u00D6mer Yasin Akis\\source\\repos\\hw3 - 6\\hw3 - 6\\hw3 - 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{197EFB29-ECEF-4D63-B7AC-6DD870268872}|hw3 - 6\\hw3 - 6.vcxproj|solutionrelative:hw3 - 6\\hw3 - 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw3 - 6.cpp",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Yasin Akis\\source\\repos\\hw3 - 6\\hw3 - 6\\hw3 - 6.cpp",
+              "RelativeDocumentMoniker": "hw3 - 6\\hw3 - 6.cpp",
+              "ToolTip": "C:\\Users\\\u00D6mer Yasin Akis\\source\\repos\\hw3 - 6\\hw3 - 6\\hw3 - 6.cpp",
+              "RelativeToolTip": "hw3 - 6\\hw3 - 6.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T09:50:35.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
